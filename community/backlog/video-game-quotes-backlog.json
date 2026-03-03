@@ -367,7 +367,7 @@
     "character": "Joker",
     "id": 37,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "風が、来る！",
@@ -507,7 +507,7 @@
     "character": "Guild Handler lines",
     "id": 51,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "次はもっと強くなる",
@@ -527,7 +527,7 @@
     "character": "Class Zero",
     "id": 53,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "生きるってのは、戦うってことだ",
@@ -537,7 +537,7 @@
     "character": "Ichiban Kasuga",
     "id": 54,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "この戦い、負けられない！",
@@ -557,7 +557,7 @@
     "character": "Nobunaga Oda",
     "id": 56,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "世界を救うって、そういうことだろ？",
@@ -577,7 +577,7 @@
     "character": "Revali",
     "id": 58,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "俺たちの物語は、ここからだ",
@@ -597,7 +597,7 @@
     "character": "Musashi reference",
     "id": 60,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "まだまだだね",
@@ -606,7 +606,7 @@
     "game": "The Prince of Tennis: Sweat & Tears 2",
     "character": "Ryoma Echizen",
     "id": 61,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
