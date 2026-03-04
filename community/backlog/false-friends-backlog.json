@@ -681,7 +681,7 @@
     "example": "試合前はみんなハイテンションだった。",
     "id": 76,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "イメージ (imeeji)",
@@ -699,7 +699,7 @@
     "example": "父は都内でサラリーマンをしている。",
     "id": 78,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "ペットボトル (petto botoru)",
@@ -717,7 +717,7 @@
     "example": "子どものころからアニメが好きだ。",
     "id": 80,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "手紙 (tegami)",
@@ -726,7 +726,7 @@
     "example": "祖母に手紙を書きました。",
     "id": 81,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "マンション (manshon)",
@@ -743,7 +743,7 @@
     "explanation": "コンセント means electrical outlet. (Set 5)",
     "example": "コンセントが足りないので延長コードを使います。",
     "id": 83,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
