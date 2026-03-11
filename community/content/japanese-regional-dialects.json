@@ -83,12 +83,12 @@
   "region": "Kansai",
   "note": "Very common in Osaka/Kyoto speech. (Set 5)"
 }
-  },
-  {
-    "dialect": "なんでやねん",
-    "standardJapanese": "何でだよ",
-    "english": "What are you talking about?!",
-    "region": "Kansai",
-    "note": "Classic comedic retort (tsukkomi). (Set 5)"
-  }
+},
+{
+  "dialect": "なんでやねん",
+  "standardJapanese": "何でだよ",
+  "english": "What are you talking about?!",
+  "region": "Kansai",
+  "note": "Classic comedic retort (tsukkomi). (Set 5)"
+}
 ]
