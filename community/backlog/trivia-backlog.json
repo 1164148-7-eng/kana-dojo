@@ -1525,7 +1525,7 @@
     ],
     "correctIndex": 0,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": 110,
@@ -1538,7 +1538,7 @@
       "Kyogen"
     ],
     "correctIndex": 0,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
