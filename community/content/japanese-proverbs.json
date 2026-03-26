@@ -491,41 +491,41 @@
     "meaning": "Persistence can overcome great obstacles"
   },
   {
-  "japanese": "雨垂れ石を穿つ",
-  "romaji": "Amadare ishi wo ugatsu",
-  "english": "Dripping water pierces stone",
-  "meaning": "Persistence can overcome great obstacles"
-},
+    "japanese": "雨垂れ石を穿つ",
+    "romaji": "Amadare ishi wo ugatsu",
+    "english": "Dripping water pierces stone",
+    "meaning": "Persistence can overcome great obstacles"
+  },
   {
-  "japanese": "油断大敵",
-  "romaji": "Yudan taiteki",
-  "english": "Carelessness is the greatest enemy",
-  "meaning": "Don't let your guard down"
-},
+    "japanese": "油断大敵",
+    "romaji": "Yudan taiteki",
+    "english": "Carelessness is the greatest enemy",
+    "meaning": "Don't let your guard down"
+  },
   {
-  "japanese": "毒を食らわば皿まで",
-  "romaji": "Doku wo kurawaba sara made",
-  "english": "If you eat poison, eat the plate too",
-  "meaning": "If you must do something risky, go all the way"
-},
-{
-  "japanese": "鬼に金棒",
-  "romaji": "Oni ni kanabou",
-  "english": "An iron club to an ogre",
-  "meaning": "Making someone strong even stronger"
-},
-{
-  "japanese": "捕らぬ狸の皮算用",
-  "romaji": "Toranu tanuki no kawazan'you",
-  "english": "Counting a raccoon dog's skins before catching it",
-  "meaning": "Don't count your chickens before they hatch"
-},
-{
-  "japanese": "縁の下の力持ち",
-  "romaji": "En no shita no chikaramochi",
-  "english": "A strong person under the veranda",
-  "meaning": "An unsung hero who supports behind the scenes"
-},
+    "japanese": "毒を食らわば皿まで",
+    "romaji": "Doku wo kurawaba sara made",
+    "english": "If you eat poison, eat the plate too",
+    "meaning": "If you must do something risky, go all the way"
+  },
+  {
+    "japanese": "鬼に金棒",
+    "romaji": "Oni ni kanabou",
+    "english": "An iron club to an ogre",
+    "meaning": "Making someone strong even stronger"
+  },
+  {
+    "japanese": "捕らぬ狸の皮算用",
+    "romaji": "Toranu tanuki no kawazan'you",
+    "english": "Counting a raccoon dog's skins before catching it",
+    "meaning": "Don't count your chickens before they hatch"
+  },
+  {
+    "japanese": "縁の下の力持ち",
+    "romaji": "En no shita no chikaramochi",
+    "english": "A strong person under the veranda",
+    "meaning": "An unsung hero who supports behind the scenes"
+  },
   {
     "japanese": "灯台下暗し",
     "romaji": "Toudai moto kurashi",
@@ -557,4 +557,3 @@
     "meaning": "Careless words cause trouble"
   }
 ]
-  
